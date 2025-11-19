@@ -1,0 +1,3 @@
+R-squared:0.4743
+nObservations:20640
+nAIC:51221.28
